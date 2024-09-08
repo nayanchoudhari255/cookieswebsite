@@ -238,7 +238,7 @@ button:hover{
 }
 footer{
     display: flex;
-    justify-content: space-between;
+    justify-content: space-evenly;
     color: white;
     background-color: black;
     padding: 10px;
